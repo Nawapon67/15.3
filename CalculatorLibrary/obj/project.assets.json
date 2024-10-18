@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\15.3\\CalculatorLibrary\\CalculatorLibrary.csproj",
+      "projectUniqueName": "C:\\Week 15.1\\CalculatorLibrary\\CalculatorLibrary.csproj",
       "projectName": "CalculatorLibrary",
-      "projectPath": "C:\\15.3\\CalculatorLibrary\\CalculatorLibrary.csproj",
+      "projectPath": "C:\\Week 15.1\\CalculatorLibrary\\CalculatorLibrary.csproj",
       "packagesPath": "C:\\Users\\siet\\.nuget\\packages\\",
-      "outputPath": "C:\\15.3\\CalculatorLibrary\\obj\\",
+      "outputPath": "C:\\Week 15.1\\CalculatorLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\siet\\AppData\\Roaming\\NuGet\\NuGet.Config"

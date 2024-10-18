@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\15.3\\Calculator\\Calculator.csproj": {}
+    "C:\\Week 15.1\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\15.3\\CalculatorLibrary\\CalculatorLibrary.csproj": {
+    "C:\\Week 15.1\\CalculatorLibrary\\CalculatorLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\15.3\\CalculatorLibrary\\CalculatorLibrary.csproj",
+        "projectUniqueName": "C:\\Week 15.1\\CalculatorLibrary\\CalculatorLibrary.csproj",
         "projectName": "CalculatorLibrary",
-        "projectPath": "C:\\15.3\\CalculatorLibrary\\CalculatorLibrary.csproj",
+        "projectPath": "C:\\Week 15.1\\CalculatorLibrary\\CalculatorLibrary.csproj",
         "packagesPath": "C:\\Users\\siet\\.nuget\\packages\\",
-        "outputPath": "C:\\15.3\\CalculatorLibrary\\obj\\",
+        "outputPath": "C:\\Week 15.1\\CalculatorLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\siet\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\15.3\\Calculator\\Calculator.csproj": {
+    "C:\\Week 15.1\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\15.3\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Week 15.1\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\15.3\\Calculator\\Calculator.csproj",
+        "projectPath": "C:\\Week 15.1\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\siet\\.nuget\\packages\\",
-        "outputPath": "C:\\15.3\\Calculator\\obj\\",
+        "outputPath": "C:\\Week 15.1\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\siet\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -84,8 +84,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\15.3\\CalculatorLibrary\\CalculatorLibrary.csproj": {
-                "projectPath": "C:\\15.3\\CalculatorLibrary\\CalculatorLibrary.csproj"
+              "C:\\Week 15.1\\CalculatorLibrary\\CalculatorLibrary.csproj": {
+                "projectPath": "C:\\Week 15.1\\CalculatorLibrary\\CalculatorLibrary.csproj"
               }
             }
           }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\15.3\\CalcLibtest\\CalcLibtest.csproj": {}
+    "C:\\Week 15.1\\CalcLibtest\\CalcLibtest.csproj": {}
   },
   "projects": {
-    "C:\\15.3\\CalcLibtest\\CalcLibtest.csproj": {
+    "C:\\Week 15.1\\CalcLibtest\\CalcLibtest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\15.3\\CalcLibtest\\CalcLibtest.csproj",
+        "projectUniqueName": "C:\\Week 15.1\\CalcLibtest\\CalcLibtest.csproj",
         "projectName": "CalcLibtest",
-        "projectPath": "C:\\15.3\\CalcLibtest\\CalcLibtest.csproj",
+        "projectPath": "C:\\Week 15.1\\CalcLibtest\\CalcLibtest.csproj",
         "packagesPath": "C:\\Users\\siet\\.nuget\\packages\\",
-        "outputPath": "C:\\15.3\\CalcLibtest\\obj\\",
+        "outputPath": "C:\\Week 15.1\\CalcLibtest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\siet\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\15.3\\CalculatorLibrary\\CalculatorLibrary.csproj": {
-                "projectPath": "C:\\15.3\\CalculatorLibrary\\CalculatorLibrary.csproj"
+              "C:\\Week 15.1\\CalculatorLibrary\\CalculatorLibrary.csproj": {
+                "projectPath": "C:\\Week 15.1\\CalculatorLibrary\\CalculatorLibrary.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\15.3\\CalculatorLibrary\\CalculatorLibrary.csproj": {
+    "C:\\Week 15.1\\CalculatorLibrary\\CalculatorLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\15.3\\CalculatorLibrary\\CalculatorLibrary.csproj",
+        "projectUniqueName": "C:\\Week 15.1\\CalculatorLibrary\\CalculatorLibrary.csproj",
         "projectName": "CalculatorLibrary",
-        "projectPath": "C:\\15.3\\CalculatorLibrary\\CalculatorLibrary.csproj",
+        "projectPath": "C:\\Week 15.1\\CalculatorLibrary\\CalculatorLibrary.csproj",
         "packagesPath": "C:\\Users\\siet\\.nuget\\packages\\",
-        "outputPath": "C:\\15.3\\CalculatorLibrary\\obj\\",
+        "outputPath": "C:\\Week 15.1\\CalculatorLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\siet\\AppData\\Roaming\\NuGet\\NuGet.Config"
